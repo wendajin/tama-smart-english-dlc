@@ -21,15 +21,3 @@ https://www.reddit.com/r/DigimonVitalBracelet/comments/xukzo2/about_the_mr_blink
 here you should be able to ask around for original dumps if you have any issues dumping it yourself...
 
 When you have a patched .bin file you can write it to a "flash card" 
-
-**_with a tool similiar as this:_**
-https://tamagotchicenter.com/shop/products/the-center-flashmate-sd-card-programmer-for-tamagotchi-smart-ps-and-tama-go
-
-**_using software like this:_**
-https://tamagotchicenter.com/flash
-
-**_to a flash card like this:_**
-https://tamagotchicenter.com/shop/products/the-center-card-tamagotchi-smart-complete-english-patch-16mb
-
-
-Also Im in no way afilliated with tamagotchicenter I just use his tools since I like them and they are simple to use for me.
