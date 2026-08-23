@@ -15,7 +15,7 @@ Hope you like it :)
 
 ....
 English nor japanese is my first language so please dont expect perfect DLC.
-I mainly did it for me and my wife.
+I mainly did it for me and my wife. Also some AI was used for batch file formatting, for translation multiple translators, online dictionaries and language models were used.
 
 https://www.reddit.com/r/DigimonVitalBracelet/comments/xukzo2/about_the_mr_blinky_tool_and_tamagotchi_smart/
 here you should be able to ask around for original dumps if you have any issues dumping it yourself...
